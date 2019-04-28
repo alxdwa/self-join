@@ -11,7 +11,7 @@ rails db:migrate
 rails g scaffold user name:string
 rails db:migrate
 
-rails g model Follows follower_id:integer followee_id:integer
+rails g model Follow follower_id:integer followee_id:integer
 
 code .
 to Follow model:
