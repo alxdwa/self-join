@@ -46,3 +46,5 @@ view associations:
 [resource].followees
 
 ```
+
+ref https://medium.com/@TheDickWard/self-referential-relationships-aka-self-joins-in-rails-64f8f36ac311
